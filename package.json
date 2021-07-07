@@ -8,9 +8,9 @@
     "test": "ng test",
     "lint": "ng lint",
     "e2e": "ng e2e",
-    "deploy": "ng build --prod --base-href https://Meenalaxmi1809.github.io/testpress/ && angular-cli-ghpages --branch gh-pages"
+    "deploy": "ng build --prod --base-href https://Meenalaxmi1809.github.io/test/ && angular-cli-ghpages --branch gh-pages"
   },
-  "private": true,
+  "private": false,
   "dependencies": {
     "@angular/animations": "~8.2.4",
     "@angular/cdk": "^8.2.2",
